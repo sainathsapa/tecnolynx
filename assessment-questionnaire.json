@@ -1,0 +1,240 @@
+[
+    {
+        "sec_id": 1,
+        "sec_title": "Section 1: Writing skills assessment",
+        "sec_questions": [
+            {
+                "qno": 1,
+                "qtype": "multiple-choice-ss",
+                "question": "I express my thoughts well in writing",
+                "option_1": [
+                    {
+                        "option": "Never",
+                        "points": 1
+                    }
+                ],
+                "option_2": [
+                    {
+                        "option": "Sometimes",
+                        "points": 2
+                    }
+                ],
+                "option_3": [
+                    {
+                        "option": "Usually",
+                        "points": 3
+                    }
+                ],
+                "option_4": [
+                    {
+                        "option": "Always",
+                        "points": 4
+                    }
+                ]
+            },
+            {
+                "qno": 2,
+                "qtype": "multiple-choice-ss",
+                "question": "I write quick drafts from my notes.",
+                "option_1": [
+                    {
+                        "option": "Never",
+                        "points": 1
+                    }
+                ],
+                "option_2": [
+                    {
+                        "option": "Sometimes",
+                        "points": 2
+                    }
+                ],
+                "option_3": [
+                    {
+                        "option": "Usually",
+                        "points": 3
+                    }
+                ],
+                "option_4": [
+                    {
+                        "option": "Always",
+                        "points": 4
+                    }
+                ]
+            },
+            {
+                "qno": 3,
+                "qtype": "multiple-choice-ss",
+                "question": "I tend to rewrite my assignments to improve the reach & impact.",
+                "option_1": [
+                    {
+                        "option": "Never",
+                        "points": 1
+                    }
+                ],
+                "option_2": [
+                    {
+                        "option": "Sometimes",
+                        "points": 2
+                    }
+                ],
+                "option_3": [
+                    {
+                        "option": "Usually",
+                        "points": 3
+                    }
+                ],
+                "option_4": [
+                    {
+                        "option": "Always",
+                        "points": 4
+                    }
+                ]
+            },
+            {
+                "qno": 4,
+                "qtype": "multiple-choice-ss",
+                "question": "I review my writing for typos and grammatical errors.",
+                "option_1": [
+                    {
+                        "option": "Never",
+                        "points": 1
+                    }
+                ],
+                "option_2": [
+                    {
+                        "option": "Sometimes",
+                        "points": 2
+                    }
+                ],
+                "option_3": [
+                    {
+                        "option": "Usually",
+                        "points": 3
+                    }
+                ],
+                "option_4": [
+                    {
+                        "option": "Always",
+                        "points": 4
+                    }
+                ]
+            },
+            {
+                "qno": 5,
+                "qtype": "multiple-choice-ss",
+                "question": "I'll have someone else read my work and consider their suggestion to improve the content",
+                "option_1": [
+                    {
+                        "option": "Never",
+                        "points": 1
+                    }
+                ],
+                "option_2": [
+                    {
+                        "option": "Sometimes",
+                        "points": 2
+                    }
+                ],
+                "option_3": [
+                    {
+                        "option": "Usually",
+                        "points": 3
+                    }
+                ],
+                "option_4": [
+                    {
+                        "option": "Always",
+                        "points": 4
+                    }
+                ]
+            },
+            {
+                "qno": 6,
+                "qtype": "multiple-choice-ss",
+                "question": "I am comfortable using internet, online libraries and other sources for research.",
+                "option_1": [
+                    {
+                        "option": "Never",
+                        "points": 1
+                    }
+                ],
+                "option_2": [
+                    {
+                        "option": "Sometimes",
+                        "points": 2
+                    }
+                ],
+                "option_3": [
+                    {
+                        "option": "Usually",
+                        "points": 3
+                    }
+                ],
+                "option_4": [
+                    {
+                        "option": "Always",
+                        "points": 4
+                    }
+                ]
+            },
+            {
+                "qno": 7,
+                "qtype": "multiple-choice-ss",
+                "question": "I am able to narrow a topic for a website, blog, white paper etc.",
+                "option_1": [
+                    {
+                        "option": "Never",
+                        "points": 1
+                    }
+                ],
+                "option_2": [
+                    {
+                        "option": "Sometimes",
+                        "points": 2
+                    }
+                ],
+                "option_3": [
+                    {
+                        "option": "Usually",
+                        "points": 3
+                    }
+                ],
+                "option_4": [
+                    {
+                        "option": "Always",
+                        "points": 4
+                    }
+                ]
+            },
+            {
+                "qno": 8,
+                "qtype": "multiple-choice-ss",
+                "question": "I allow sufficient time to collect information, organize material and develop content.",
+                "option_1": [
+                    {
+                        "option": "Never",
+                        "points": 1
+                    }
+                ],
+                "option_2": [
+                    {
+                        "option": "Sometimes",
+                        "points": 2
+                    }
+                ],
+                "option_3": [
+                    {
+                        "option": "Usually",
+                        "points": 3
+                    }
+                ],
+                "option_4": [
+                    {
+                        "option": "Always",
+                        "points": 4
+                    }
+                ]
+            }
+        ]
+    }
+]
